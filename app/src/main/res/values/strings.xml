@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AgendaRoom</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contatos">Contatos</string>
+    <string name="novo_contato">Novo contato</string>
+    <string name="nome">Nome</string>
+    <string name="fone">Fone</string>
+    <string name="email">Email</string>
+    <string name="salvar">Salvar</string>
 </resources>
